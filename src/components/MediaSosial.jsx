@@ -178,19 +178,29 @@ export const MediaSosial = () => {
 				className="rounded-lg border-none mt-4"
 			>
 				<DockIcon className="bg-white/10 p-3">
-					<Icons.gitHub className="size-full" />
+					<a href="https://github.com/rizkirifandi7">
+						<Icons.gitHub className="size-full" />
+					</a>
 				</DockIcon>
 				<DockIcon className="bg-white/10 p-3">
-					<Icons.linkedin className="size-full" />
+					<a href="https://www.linkedin.com/in/rizkirifani/">
+						<Icons.linkedin className="size-full" />
+					</a>
 				</DockIcon>
 				<DockIcon className="bg-white/10 p-3">
-					<Icons.instgram className="size-full" />
+					<a href="https://www.instagram.com/rizki.rifandii/">
+						<Icons.instgram className="size-full" />
+					</a>
 				</DockIcon>
 				<DockIcon className="bg-white/10 p-3">
-					<Icons.spotify className="size-full" />
+					<a href="https://open.spotify.com/user/z50iljhvoljsjg0q6kqtifkog?si=42c9a30db7954556&nd=1&dlsi=2182fa7a0aae493c">
+						<Icons.spotify className="size-full" />
+					</a>
 				</DockIcon>
 				<DockIcon className="bg-white/10 p-3">
-					<Icons.website className="size-full" />
+					<a href="https://rizkirifani.dighie.tech/">
+						<Icons.website className="size-full" />
+					</a>
 				</DockIcon>
 			</Dock>
 		</div>
